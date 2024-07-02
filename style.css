@@ -31,7 +31,7 @@ body{
 
 .header a{
     text-decoration: none;
-    color: #FF8F00;
+    color: #fff;
 }
 
 .avatar{
@@ -79,7 +79,7 @@ font-weight: 600;
 }
 
 .card p{
-color: #FF8F00;
+color: #000;
 }
 /* footer */
 
@@ -103,7 +103,7 @@ align-items: center;
 }
 
 .footer a:hover{
-    color: #FF8F00;
+    color: #000;
     background-color: #071952;
     border-radius: 10px;
 }
